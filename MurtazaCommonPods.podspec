@@ -25,13 +25,13 @@ s.source = { :git => "https://github.com/MuhammadMurtazaMemon/MurtazaCommonPod.g
 
 # 7
 s.framework = "UIKit"
-s.dependency 'IQKeyboardManagerSwift'
+s.dependency 'IQKeyboardManagerSwift', '6.5.6'
 s.dependency 'Alamofire', '4.9.0'
-s.dependency 'SwiftyJSON'
-s.dependency 'Loaf'
-s.dependency 'RealmSwift'
-s.dependency 'SDWebImage'
-s.dependency 'NVActivityIndicatorView'
+s.dependency 'SwiftyJSON', '5.0.0'
+s.dependency 'Loaf', '0.5.0'
+s.dependency 'RealmSwift', '5.3.4'
+s.dependency 'SDWebImage', '5.8.4'
+s.dependency 'NVActivityIndicatorView', '5.0.1'
 
 # 8
 s.source_files = "MurtazaCommonPods/**/*.{swift}"
