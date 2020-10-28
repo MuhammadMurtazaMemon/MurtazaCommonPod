@@ -15,4 +15,5 @@ target 'MurtazaCommonPods' do
 #pod 'SDWebImage', '5.8.4'
 #pod 'NVActivityIndicatorView', '5.0.1'
 
+
 end
