@@ -1,3 +1,50 @@
-PODFILE CHECKSUM: 4f87efc6f1d0df17c363a10a5df7aa5ce5379e5c
+PODS:
+  - Alamofire (4.9.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Loaf (0.5.0)
+  - NVActivityIndicatorView (5.0.1):
+    - NVActivityIndicatorView/Base (= 5.0.1)
+  - NVActivityIndicatorView/Base (5.0.1)
+  - Realm (5.3.4):
+    - Realm/Headers (= 5.3.4)
+  - Realm/Headers (5.3.4)
+  - RealmSwift (5.3.4):
+    - Realm (= 5.3.4)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.0)
+  - IQKeyboardManagerSwift (= 6.5.6)
+  - Loaf (= 0.5.0)
+  - NVActivityIndicatorView (= 5.0.1)
+  - RealmSwift (= 5.3.4)
+  - SDWebImage (= 5.8.4)
+  - SwiftyJSON (= 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Loaf
+    - NVActivityIndicatorView
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Loaf: 0800b444431366bc395d54267975d4ad4ad5c99c
+  NVActivityIndicatorView: 738e843cb8924e9e4fc3e559d0728031624bf860
+  Realm: 4dd457b6ed025041cf7efe05dae78c027ba842e0
+  RealmSwift: 233af88fffe05ed7f9305eecef100d477c0c2c42
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: f2bd287c611f15475a8e26af3f143b6b360cff2c
 
 COCOAPODS: 1.8.4

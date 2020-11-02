@@ -7,13 +7,13 @@ target 'MurtazaCommonPods' do
 
   # Pods for MurtazaCommonPods
 
-#pod 'IQKeyboardManagerSwift', '6.5.6'
-#pod 'Alamofire', '4.9.0'
-#pod 'SwiftyJSON', '5.0.0'
-#pod 'Loaf', '0.5.0'
-#pod 'RealmSwift', '5.3.4'
-#pod 'SDWebImage', '5.8.4'
-#pod 'NVActivityIndicatorView', '5.0.1'
+pod 'IQKeyboardManagerSwift', '6.5.6'
+pod 'Alamofire', '4.9.0'
+pod 'SwiftyJSON', '5.0.0'
+pod 'Loaf', '0.5.0'
+pod 'RealmSwift', '5.3.4'
+pod 'SDWebImage', '5.8.4'
+pod 'NVActivityIndicatorView', '5.0.1'
 
 
 end
